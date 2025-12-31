@@ -1,7 +1,14 @@
 <h2 align="left">Hi 👋! My name is Michael Butler, currently a Graduate Developer at Pinewood.AI</h2>
 
 # 💫 About Me:
-Graduate Software Developer<br>BSc Computer Science<br>MSc Digital Transformation<br>Always Looking to learn and develop
+Graduate Software Developer
+<br>
+Currently Learning / Studying: <a href="https://learn.microsoft.com/en-us/training/paths/build-web-apps-with-blazor/">Blazor</a>
+<br>
+BSc Computer Science
+<br>
+MSc Digital Transformation
+<br>Always looking to learn and develop
 
 # 💻 Tech Stack:
 <div align="left">
