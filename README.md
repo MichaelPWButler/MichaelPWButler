@@ -37,7 +37,7 @@ MSc Digital Transformation
 
 # 💻 Connect With Me:
 <div align="left">
-  <a href="michaelbut12345670@gmail.com" target="_blank">
+  <a href="mailto:michaelbut12345670@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/michael-butler-12646b1a0/" target="_blank">
